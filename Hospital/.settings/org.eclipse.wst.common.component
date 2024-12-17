@@ -1,8 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+<<<<<<< HEAD
     	
     <wb-module deploy-name="Hospital">
                 
+=======
+        	
+    
+    <wb-module deploy-name="hos-1.0.0-BUILD-SNAPSHOT">
+                        
+        
+>>>>>>> branch 'main' of https://github.com/ruflrh/hospital_git_test.git
         <wb-resource deploy-path="/" source-path="/target/m2e-wtp/web-resources"/>
+<<<<<<< HEAD
         		
         <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
         		
@@ -13,8 +22,33 @@
         		
         <property name="java-output-path" value="target/classes"/>
                 
+=======
+                		
+        
+        <wb-resource deploy-path="/" source-path="/src/main/webapp" tag="defaultRootSource"/>
+                		
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/java"/>
+                		
+        
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/main/resources"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src/test/resources"/>
+                		
+        
+        <property name="java-output-path" value="target/classes"/>
+                        
+        
+>>>>>>> branch 'main' of https://github.com/ruflrh/hospital_git_test.git
         <property name="context-root" value="hos"/>
+<<<<<<< HEAD
         	
     </wb-module>
     
+=======
+                	
+    
+    </wb-module>
+        
+
+>>>>>>> branch 'main' of https://github.com/ruflrh/hospital_git_test.git
 </project-modules>
